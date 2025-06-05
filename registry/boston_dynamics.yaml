@@ -1,0 +1,10 @@
+company: "Boston Dynamics"
+sector_id: "APP"
+sector_name: "AI Applications & Services"
+subsector_id: "APP.RBT"
+subsector_name: "Robotics & IoT"
+taxonomy_version: "1.0"
+description: >
+  Boston Dynamics is renowned for developing advanced robots that integrate AI for perception,
+  navigation, and manipulation. Their robots, such as Spot and Atlas, are used in industrial,
+  research, and commercial applications. 

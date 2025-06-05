@@ -5,6 +5,8 @@ Specialized hardware and computing systems designed for AI workloads, including 
 
 **Parent Sector**: [INF – AI Infrastructure](inf.md)
 
-## Companies
+## Notable Companies
 
+- [Cerebras Systems](../registry/cerebras.md)
 - [NVIDIA](../registry/nvidia.md)
+- [SambaNova Systems](../registry/sambanova.md)

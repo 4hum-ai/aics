@@ -5,6 +5,7 @@ Platforms for sharing, discovering, and collaborating on AI models. Includes mod
 
 **Parent Sector**: [MOD – AI Models & Platforms](mod.md)
 
-## Companies
+## Notable Companies
 
 - [HuggingFace](../registry/huggingface.md)
+- [Replicate](../registry/replicate.md)

@@ -1,17 +1,22 @@
 # AI Classification Standard (AICS)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Documentation Status](https://readthedocs.org/projects/aics/badge/?version=latest)](https://4hum-ai.github.io/aics/)
+[![Contributors](https://img.shields.io/github/contributors/4hum-ai/aics)](https://github.com/4hum-ai/aics/graphs/contributors)
+[![Issues](https://img.shields.io/github/issues/4hum-ai/aics)](https://github.com/4hum-ai/aics/issues)
+
 A comprehensive framework for classifying and evaluating artificial intelligence systems. AICS provides a structured approach to understanding the AI industry landscape, helping organizations navigate the complex world of artificial intelligence.
 
 ## 🌟 Features
 
 - **Comprehensive Taxonomy**: Detailed classification of AI sectors and subsectors
-- **Company Registry**: Curated database of AI companies and their classifications
+- **Company Registry**: Curated database of Notable AI companies and their classifications
 - **Open Standard**: Free to use and contribute to
 - **Regular Updates**: Continuously evolving with the AI industry
 
 ## 📚 Documentation
 
-Visit our [documentation site](https://aics-org.github.io/aics/) to explore:
+Visit our [documentation site](https://4hum-ai.github.io/aics/) to explore:
 - Detailed taxonomy structure
 - Company registry
 - Methodology and standards
@@ -22,7 +27,7 @@ Visit our [documentation site](https://aics-org.github.io/aics/) to explore:
 We welcome contributions from the community! Here's how you can help:
 
 ### Report Issues
-Found a bug or have a suggestion? [Create an issue](https://github.com/aics-org/aics/issues) to let us know.
+Found a bug or have a suggestion? [Create an issue](https://github.com/4hum-ai/aics/issues) to let us know.
 
 ### Add Companies
 To add a company to the registry:
@@ -72,13 +77,7 @@ mkdocs serve
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- Thanks to all our contributors
-- Inspired by various industry standards and frameworks
-- Built with [MkDocs](https://www.mkdocs.org/) and [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
-
 ## 📞 Contact
 
-- GitHub Issues: [Create an issue](https://github.com/aics-org/aics/issues)
+- GitHub Issues: [Create an issue](https://github.com/4hum-ai/aics/issues)
 - Email: [hello@4hum.ai](mailto:hello@4hum.ai)

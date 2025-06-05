@@ -1,0 +1,10 @@
+company: "SambaNova Systems"
+sector_id: "INF"
+sector_name: "AI Infrastructure"
+subsector_id: "INF.CMP"
+subsector_name: "AI Compute Hardware"
+taxonomy_version: "1.0"
+description: >
+  SambaNova Systems builds advanced AI hardware and integrated systems for accelerating AI workloads.
+  Their DataScale platform is designed for high-performance training and inference, supporting large-scale
+  enterprise AI deployments. 

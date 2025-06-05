@@ -5,6 +5,7 @@ Services and platforms that provide access to AI models through APIs and handle 
 
 **Parent Sector**: [MOD – AI Models & Platforms](mod.md)
 
-## Companies
+## Notable Companies
 
+- [Cohere](../registry/cohere.md)
 - [OpenAI](../registry/openai.md)

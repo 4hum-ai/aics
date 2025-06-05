@@ -1,0 +1,10 @@
+company: "Credo AI"
+sector_id: "GOV"
+sector_name: "AI Governance & Ethics"
+subsector_id: "GOV.POL"
+subsector_name: "Policy & Regulatory Frameworks"
+taxonomy_version: "1.0"
+description: >
+  Credo AI provides governance and risk management solutions for AI systems.
+  Their platform helps organizations implement responsible AI policies, track compliance,
+  and align with regulatory requirements. 

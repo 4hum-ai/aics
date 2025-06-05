@@ -45,7 +45,7 @@ for sector in taxonomy["sectors"]:
             f.write(f"# {sub['id']} – {sub['name']}\n\n")
             f.write(f"{sub['description']}\n\n")
             f.write(f"**Parent Sector**: [{sector['id']} – {sector['name']}]({sector['id'].lower()}.md)\n\n")
-            f.write("## Companies\n\n")
+            f.write("## Notable Companies\n\n")
 
 # Load registry and generate company pages
 subsector_map = {}
@@ -55,6 +55,8 @@ for file in os.listdir(REGISTRY_DIR):
     if file.endswith(".yaml"):
         with open(f"{REGISTRY_DIR}/{file}", encoding='utf-8') as f:
             data = yaml.safe_load(f)
+            if not data:
+                continue  # Skip empty or invalid YAML files
             company_id = file.replace(".yaml", "")
             subsector = data["subsector_id"]
             # Append company link to subsector map
@@ -83,8 +85,8 @@ all_companies.sort(key=lambda x: x[0].lower())
 # Generate registry.md with alphabetical listing
 with open(f"{DOCS_DIR}/registry.md", "w", encoding='utf-8') as f:
     f.write("# Company Registry\n\n")
-    f.write("This page provides an alphabetical listing of all companies in our taxonomy.\n\n")
-    f.write("## Companies A-Z\n\n")
+    f.write("This page provides an alphabetical listing of notable companies in our taxonomy. This is not meant to be an exhaustive list of all companies in the AI industry, but rather a curated selection of significant players across different sectors.\n\n")
+    f.write("## Notable Companies A-Z\n\n")
     
     current_letter = None
     for company_name, company_id in all_companies:
@@ -96,5 +98,5 @@ with open(f"{DOCS_DIR}/registry.md", "w", encoding='utf-8') as f:
             current_letter = first_letter
         f.write(f"- [{company_name}](registry/{company_id}.md)\n")
     
-    f.write("\n*Note: Companies are organized alphabetically by name. Click on any company to view its detailed profile.*")
+    f.write("\n*Note: This is a curated list of notable companies organized alphabetically by name. The list is not exhaustive and represents a selection of significant players in the AI industry. Click on any company to view its detailed profile.*")
 

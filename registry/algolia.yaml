@@ -1,0 +1,10 @@
+company: "Algolia"
+sector_id: "APP"
+sector_name: "AI Applications & Services"
+subsector_id: "APP.ECM"
+subsector_name: "eCommerce & Personalization"
+taxonomy_version: "1.0"
+description: >
+  Algolia provides AI-powered search and discovery APIs for eCommerce and digital businesses.
+  Their platform enables personalized search, recommendations, and dynamic content delivery
+  to optimize customer experience and conversion rates. 

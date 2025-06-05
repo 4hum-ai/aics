@@ -1,0 +1,10 @@
+company: "UiPath"
+sector_id: "APP"
+sector_name: "AI Applications & Services"
+subsector_id: "APP.ENT"
+subsector_name: "Enterprise Automation"
+taxonomy_version: "1.0"
+description: >
+  UiPath is a global leader in robotic process automation (RPA), providing AI-powered tools to automate
+  repetitive business processes. Their platform combines RPA with AI to enable end-to-end automation
+  for enterprises. 

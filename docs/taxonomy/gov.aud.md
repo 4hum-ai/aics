@@ -5,5 +5,6 @@ Tools and services for auditing AI systems, ensuring compliance with regulations
 
 **Parent Sector**: [GOV – AI Governance & Ethics](gov.md)
 
-## Companies
+## Notable Companies
 
+- [Arthur AI](../registry/arthur.md)

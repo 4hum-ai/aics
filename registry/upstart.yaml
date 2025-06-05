@@ -1,0 +1,11 @@
+company: "Upstart"
+sector_id: "APP"
+sector_name: "AI Applications & Services"
+subsector_id: "APP.FIN"
+subsector_name: "Financial Services & FinTech"
+taxonomy_version: "1.0"
+description: >
+  Upstart is an AI lending platform that uses machine learning to improve access to
+  affordable credit. Their AI models analyze thousands of data points to better
+  assess credit risk, enabling more accurate lending decisions and expanding access
+  to credit for consumers. 

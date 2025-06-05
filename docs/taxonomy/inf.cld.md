@@ -5,5 +5,6 @@ Cloud platforms and edge computing solutions optimized for AI workloads. Provide
 
 **Parent Sector**: [INF – AI Infrastructure](inf.md)
 
-## Companies
+## Notable Companies
 
+- [Amazon Web Services (AWS)](../registry/aws.md)

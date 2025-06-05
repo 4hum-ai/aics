@@ -1,0 +1,11 @@
+company: "Amazon Web Services (AWS)"
+sector_id: "INF"
+sector_name: "AI Infrastructure"
+subsector_id: "INF.CLD"
+subsector_name: "Cloud & Edge Infrastructure"
+taxonomy_version: "1.0"
+description: >
+  AWS is a leading cloud computing platform that provides comprehensive AI infrastructure services.
+  Their offerings include Amazon SageMaker for ML development, EC2 instances with GPU/TPU support,
+  and various AI/ML services. AWS also provides edge computing solutions through AWS IoT and
+  edge services, making it a key player in both cloud and edge AI infrastructure. 

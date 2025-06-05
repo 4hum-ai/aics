@@ -32,5 +32,5 @@ AICS differs from other AI classification systems in several ways:
 ## Quick Links
 
 - [Taxonomy Explorer](taxonomy.md) - Explore our AI industry taxonomy
-- [Company Registry](registry.md) - Browse companies alphabetically
+- [Company Registry](registry.md) - Browse sample companies alphabetically
 

@@ -5,5 +5,6 @@ AI solutions for automating business processes, improving efficiency, and enabli
 
 **Parent Sector**: [APP – AI Applications & Services](app.md)
 
-## Companies
+## Notable Companies
 
+- [UiPath](../registry/uipath.md)

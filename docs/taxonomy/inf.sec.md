@@ -5,5 +5,6 @@ Solutions for securing AI systems, monitoring model performance, and ensuring re
 
 **Parent Sector**: [INF – AI Infrastructure](inf.md)
 
-## Companies
+## Notable Companies
 
+- [Calypso AI](../registry/calypso.md)

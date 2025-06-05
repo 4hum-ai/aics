@@ -5,5 +5,6 @@ Solutions for ensuring AI system safety, managing risks, and preventing harmful 
 
 **Parent Sector**: [GOV – AI Governance & Ethics](gov.md)
 
-## Companies
+## Notable Companies
 
+- [Robust AI](../registry/robust_ai.md)

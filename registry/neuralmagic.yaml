@@ -1,0 +1,10 @@
+company: "Neural Magic"
+sector_id: "MOD"
+sector_name: "AI Models & Platforms"
+subsector_id: "MOD.CMP"
+subsector_name: "Model Compression & Optimization"
+taxonomy_version: "1.0"
+description: >
+  Neural Magic specializes in software-based model optimization, enabling deep learning models
+  to run efficiently on commodity CPUs. Their tools support pruning, quantization, and other
+  techniques to reduce model size and improve inference speed. 

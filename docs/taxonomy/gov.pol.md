@@ -5,5 +5,6 @@ Tools and services for implementing and complying with AI policies and regulatio
 
 **Parent Sector**: [GOV – AI Governance & Ethics](gov.md)
 
-## Companies
+## Notable Companies
 
+- [Credo AI](../registry/credo.md)

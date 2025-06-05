@@ -5,5 +5,6 @@ AI applications in healthcare, including diagnostic tools, treatment planning, d
 
 **Parent Sector**: [APP – AI Applications & Services](app.md)
 
-## Companies
+## Notable Companies
 
+- [Tempus](../registry/tempus.md)

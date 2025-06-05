@@ -5,5 +5,6 @@ AI systems that can operate independently to achieve specific goals. Includes vi
 
 **Parent Sector**: [APP – AI Applications & Services](app.md)
 
-## Companies
+## Notable Companies
 
+- [Adept](../registry/adept.md)

@@ -1,0 +1,10 @@
+company: "Persado"
+sector_id: "APP"
+sector_name: "AI Applications & Services"
+subsector_id: "APP.MKT"
+subsector_name: "Marketing & Advertising"
+taxonomy_version: "1.0"
+description: >
+  Persado uses AI to generate and optimize marketing language for digital campaigns.
+  Their platform leverages natural language generation and machine learning to improve
+  customer engagement and conversion rates. 

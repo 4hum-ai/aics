@@ -1,0 +1,11 @@
+company: "Adept"
+sector_id: "APP"
+sector_name: "AI Applications & Services"
+subsector_id: "APP.AGT"
+subsector_name: "Autonomous Agents"
+taxonomy_version: "1.0"
+description: >
+  Adept is developing AI agents that can use computers and software to accomplish tasks
+  autonomously. Their technology combines large language models with computer control
+  capabilities to create AI assistants that can perform complex digital tasks by
+  interacting with various software applications. 

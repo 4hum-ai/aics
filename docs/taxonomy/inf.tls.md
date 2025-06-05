@@ -5,5 +5,6 @@ Development frameworks, libraries, and tools that streamline the creation and de
 
 **Parent Sector**: [INF – AI Infrastructure](inf.md)
 
-## Companies
+## Notable Companies
 
+- [Weights & Biases](../registry/weights_biases.md)

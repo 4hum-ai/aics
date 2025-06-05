@@ -1,0 +1,11 @@
+company: "Duolingo"
+sector_id: "APP"
+sector_name: "AI Applications & Services"
+subsector_id: "APP.EDU"
+subsector_name: "Education Technology"
+taxonomy_version: "1.0"
+description: >
+  Duolingo is a language learning platform that uses AI to personalize the learning
+  experience. Their AI-powered system adapts to each learner's progress, providing
+  customized lessons and feedback. They also use AI for content generation and
+  assessment, making language education more accessible and effective. 

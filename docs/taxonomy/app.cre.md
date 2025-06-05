@@ -5,5 +5,6 @@ AI systems for creative tasks, including text generation, image creation, music 
 
 **Parent Sector**: [APP – AI Applications & Services](app.md)
 
-## Companies
+## Notable Companies
 
+- [Runway](../registry/runway.md)

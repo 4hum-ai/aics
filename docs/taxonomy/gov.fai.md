@@ -5,5 +5,6 @@ Solutions for detecting and mitigating bias in AI systems, ensuring fair treatme
 
 **Parent Sector**: [GOV – AI Governance & Ethics](gov.md)
 
-## Companies
+## Notable Companies
 
+- [Pymetrics](../registry/pymetrics.md)

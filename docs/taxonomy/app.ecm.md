@@ -5,5 +5,6 @@ AI solutions for e-commerce, including recommendation systems, personalization e
 
 **Parent Sector**: [APP – AI Applications & Services](app.md)
 
-## Companies
+## Notable Companies
 
+- [Algolia](../registry/algolia.md)

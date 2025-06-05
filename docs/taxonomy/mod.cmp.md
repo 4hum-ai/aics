@@ -5,5 +5,6 @@ Tools and techniques for optimizing AI models for efficiency, including quantiza
 
 **Parent Sector**: [MOD – AI Models & Platforms](mod.md)
 
-## Companies
+## Notable Companies
 
+- [Neural Magic](../registry/neuralmagic.md)

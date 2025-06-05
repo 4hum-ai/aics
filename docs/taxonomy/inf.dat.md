@@ -5,5 +5,6 @@ Tools and platforms for data collection, storage, processing, and management. Es
 
 **Parent Sector**: [INF – AI Infrastructure](inf.md)
 
-## Companies
+## Notable Companies
 
+- [Scale AI](../registry/scale.md)

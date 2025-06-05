@@ -1,0 +1,9 @@
+company: "Arthur AI"
+sector_id: "GOV"
+sector_name: "AI Governance & Ethics"
+subsector_id: "GOV.AUD"
+subsector_name: "AI Auditing & Compliance"
+taxonomy_version: "1.0"
+description: >
+  Arthur AI provides monitoring and auditing solutions for machine learning models in production.
+  Their platform helps organizations ensure compliance, fairness, and transparency in AI systems. 

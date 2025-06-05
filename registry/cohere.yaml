@@ -1,0 +1,11 @@
+company: "Cohere"
+sector_id: "MOD"
+sector_name: "AI Models & Platforms"
+subsector_id: "MOD.API"
+subsector_name: "Model APIs & Serving"
+taxonomy_version: "1.0"
+description: >
+  Cohere provides enterprise-grade language AI through simple APIs. Their platform offers
+  state-of-the-art language models for text generation, classification, and embeddings.
+  They focus on making advanced language AI accessible to businesses while maintaining
+  high performance and reliability. 

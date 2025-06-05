@@ -1,0 +1,11 @@
+company: "Runway"
+sector_id: "APP"
+sector_name: "AI Applications & Services"
+subsector_id: "APP.CRE"
+subsector_name: "Creative & Content Generation"
+taxonomy_version: "1.0"
+description: >
+  Runway is a creative AI company that provides tools for video editing, image generation,
+  and creative content production. Their platform combines multiple AI models to enable
+  professional-grade content creation, including video editing, visual effects, and
+  image generation capabilities. 

@@ -5,5 +5,6 @@ AI tools for marketing and advertising, including customer segmentation, campaig
 
 **Parent Sector**: [APP – AI Applications & Services](app.md)
 
-## Companies
+## Notable Companies
 
+- [Persado](../registry/persado.md)

@@ -5,5 +5,5 @@ Tools and frameworks for protecting privacy in AI systems, including data anonym
 
 **Parent Sector**: [GOV – AI Governance & Ethics](gov.md)
 
-## Companies
+## Notable Companies
 

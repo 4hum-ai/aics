@@ -1,0 +1,10 @@
+company: "Pymetrics"
+sector_id: "GOV"
+sector_name: "AI Governance & Ethics"
+subsector_id: "GOV.FAI"
+subsector_name: "Fairness & Bias Mitigation"
+taxonomy_version: "1.0"
+description: >
+  Pymetrics uses neuroscience-based games and AI to match people with jobs fairly.
+  Their platform includes tools for detecting and mitigating bias in hiring algorithms
+  and other HR applications. 

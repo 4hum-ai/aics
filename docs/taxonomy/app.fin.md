@@ -5,5 +5,6 @@ AI solutions for financial services, including fraud detection, risk assessment,
 
 **Parent Sector**: [APP – AI Applications & Services](app.md)
 
-## Companies
+## Notable Companies
 
+- [Upstart](../registry/upstart.md)

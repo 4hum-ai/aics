@@ -1,0 +1,11 @@
+company: "Tempus"
+sector_id: "APP"
+sector_name: "AI Applications & Services"
+subsector_id: "APP.HLT"
+subsector_name: "Healthcare AI"
+taxonomy_version: "1.0"
+description: >
+  Tempus uses AI to collect and analyze molecular and clinical data to personalize
+  cancer treatments. Their platform combines genomic sequencing, AI, and machine
+  learning to help physicians make real-time, data-driven decisions to improve
+  patient outcomes in cancer care. 

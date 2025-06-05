@@ -5,5 +5,6 @@ AI-powered robotics systems and IoT applications that combine hardware and softw
 
 **Parent Sector**: [APP – AI Applications & Services](app.md)
 
-## Companies
+## Notable Companies
 
+- [Boston Dynamics](../registry/boston_dynamics.md)

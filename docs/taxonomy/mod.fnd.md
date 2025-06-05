@@ -5,5 +5,6 @@ Large-scale AI models trained on broad data that can be adapted to various tasks
 
 **Parent Sector**: [MOD – AI Models & Platforms](mod.md)
 
-## Companies
+## Notable Companies
 
+- [Anthropic](../registry/anthropic.md)

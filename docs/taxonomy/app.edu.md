@@ -5,5 +5,6 @@ AI applications in education, including adaptive learning systems, educational c
 
 **Parent Sector**: [APP – AI Applications & Services](app.md)
 
-## Companies
+## Notable Companies
 
+- [Duolingo](../registry/duolingo.md)
