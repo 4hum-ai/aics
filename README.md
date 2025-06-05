@@ -14,14 +14,6 @@ A comprehensive framework for classifying and evaluating artificial intelligence
 - **Open Standard**: Free to use and contribute to
 - **Regular Updates**: Continuously evolving with the AI industry
 
-## 📚 Documentation
-
-Visit our [documentation site](https://4hum-ai.github.io/aics/) to explore:
-- Detailed taxonomy structure
-- Company registry
-- Methodology and standards
-- Development roadmap
-
 ## 🤝 Contributing
 
 We welcome contributions from the community! Here's how you can help:
@@ -48,36 +40,19 @@ To improve documentation:
 2. Make your changes in the `docs` directory
 3. Submit a pull request
 
-## 🛠️ Development
-
-### Prerequisites
-- Python 3.8+
-- pip
-
-### Setup
+### Generate Documentation
+To generate documentation:
 ```bash
-# Clone the repository
-git clone https://github.com/4hum-ai/aics.git
-cd aics
-
 # Install dependencies
 pip install -r requirements.txt
 
-# Generate documentation
+# Run the script to generate documentation from folders
 python tools/generate_docs.py
-```
 
-### Running Locally
-```bash
-# Start the documentation server
+# Run the documentation server
 mkdocs serve
 ```
 
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Contact
-
-- GitHub Issues: [Create an issue](https://github.com/4hum-ai/aics/issues)
-- Email: [hello@4hum.ai](mailto:hello@4hum.ai)
