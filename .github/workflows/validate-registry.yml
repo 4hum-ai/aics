@@ -1,0 +1,33 @@
+name: Validate Registry YAML
+
+on:
+  pull_request:
+    paths:
+      - 'registry/*.yaml'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install pyyaml jsonschema
+
+      - name: Validate registry files
+        run: |
+          python -c "
+import os, yaml, json, jsonschema
+schema = json.load(open('taxonomy/schema.json'))
+for filename in os.listdir('registry'):
+    if filename.endswith('.yaml'):
+        with open(f'registry/{filename}') as f:
+            data = yaml.safe_load(f)
+            jsonschema.validate(data, schema)
+"

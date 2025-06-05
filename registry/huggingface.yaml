@@ -1,0 +1,7 @@
+company: HuggingFace
+sector_id: MOD
+sector_name: AI Models & Platforms
+subsector_id: MOD.HUB
+subsector_name: Model Hubs & Repositories
+taxonomy_version: "1.0"
+description: Hosts transformer models and datasets with APIs, inference endpoints, and training support.

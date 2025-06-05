@@ -1,0 +1,13 @@
+# AICS Taxonomy Mapping
+# Maps v0.1 subsector IDs to v1.0 subsector IDs (manual curation may be needed)
+mappings:
+  INF.FMAPI: MOD.API
+  INF.AICHIP: INF.CMP
+  INF.CLOUD: INF.CLD
+  INF.VDB: INF.DAT
+  INF.SEC: INF.SEC
+  APP.AGENT: APP.AGT
+  APP.ENT: APP.ENT
+  APP.HEALTH: APP.HLT
+  APP.ECOM: APP.ECM
+  APP.ROBOT: APP.RBT

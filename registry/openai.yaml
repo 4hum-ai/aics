@@ -1,0 +1,7 @@
+company: OpenAI
+sector_id: MOD
+sector_name: AI Models & Platforms
+subsector_id: MOD.API
+subsector_name: Model APIs & Serving
+taxonomy_version: "1.0"
+description: Provides GPT-series foundation models and APIs including GPT-4 and GPT-4o.

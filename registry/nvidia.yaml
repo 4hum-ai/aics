@@ -1,0 +1,7 @@
+company: NVIDIA
+sector_id: INF
+sector_name: AI Infrastructure
+subsector_id: INF.CMP
+subsector_name: AI Compute Hardware
+taxonomy_version: "1.0"
+description: Designs GPUs and custom AI hardware platforms for compute-intensive applications.

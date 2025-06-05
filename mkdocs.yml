@@ -1,0 +1,40 @@
+site_name: AI Classification Standard (AICS)
+repo_url: https://github.com/aics-org/aics
+nav:
+  - Home: index.md
+  - Taxonomy:
+    - Explorer: taxonomy.md
+    - Infrastructure:
+      - Overview: taxonomy/inf.md
+      - Compute Hardware: taxonomy/inf.cmp.md
+      - Cloud & Edge: taxonomy/inf.cld.md
+      - Data Infrastructure: taxonomy/inf.dat.md
+      - Security & Observability: taxonomy/inf.sec.md
+      - Dev Tools & Frameworks: taxonomy/inf.tls.md
+    - Models & Platforms:
+      - Overview: taxonomy/mod.md
+      - Foundation Models: taxonomy/mod.fnd.md
+      - Model APIs & Serving: taxonomy/mod.api.md
+      - Model Hubs: taxonomy/mod.hub.md
+      - Model Compression: taxonomy/mod.cmp.md
+    - Applications:
+      - Overview: taxonomy/app.md
+      - Autonomous Agents: taxonomy/app.agt.md
+      - Enterprise Automation: taxonomy/app.ent.md
+      - Healthcare AI: taxonomy/app.hlt.md
+      - eCommerce: taxonomy/app.ecm.md
+      - Robotics & IoT: taxonomy/app.rbt.md
+      - Education: taxonomy/app.edu.md
+      - Financial Services: taxonomy/app.fin.md
+      - Marketing: taxonomy/app.mkt.md
+      - Creative & Content: taxonomy/app.cre.md
+    - Governance:
+      - Overview: taxonomy/gov.md
+      - Auditing: taxonomy/gov.aud.md
+      - Fairness: taxonomy/gov.fai.md
+      - Privacy: taxonomy/gov.pri.md
+      - Safety: taxonomy/gov.saf.md
+      - Policy: taxonomy/gov.pol.md
+  - Registry: registry.md
+theme:
+  name: material

@@ -1,0 +1,23 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "AICS Registry Entry",
+  "type": "object",
+  "required": [
+    "company",
+    "sector_id",
+    "sector_name",
+    "subsector_id",
+    "subsector_name",
+    "taxonomy_version",
+    "description"
+  ],
+  "properties": {
+    "company": { "type": "string" },
+    "sector_id": { "type": "string" },
+    "sector_name": { "type": "string" },
+    "subsector_id": { "type": "string" },
+    "subsector_name": { "type": "string" },
+    "taxonomy_version": { "type": "string" },
+    "description": { "type": "string" }
+  }
+}
