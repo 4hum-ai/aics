@@ -1,0 +1,177 @@
+{
+  "version": "1.0",
+  "published": "2025-06-05",
+  "standards": [
+    {
+      "id": "GICS",
+      "name": "Global Industry Classification Standard",
+      "description": "The Global Industry Classification Standard (GICS) is an industry taxonomy developed by MSCI and S&P Dow Jones Indices for use by the global financial community.\n",
+      "mappings": [
+        {
+          "aics_sector": "INF",
+          "gics_codes": [
+            {
+              "code": 45103010,
+              "name": "Application Software",
+              "description": "Companies engaged in developing and producing software designed for specialized applications for the business or consumer market."
+            },
+            {
+              "code": 45103020,
+              "name": "Systems Software",
+              "description": "Companies engaged in developing and producing systems and database management software."
+            }
+          ]
+        },
+        {
+          "aics_sector": "MOD",
+          "gics_codes": [
+            {
+              "code": 45103010,
+              "name": "Application Software",
+              "description": "Companies engaged in developing and producing software designed for specialized applications for the business or consumer market."
+            }
+          ]
+        },
+        {
+          "aics_sector": "APP",
+          "gics_codes": [
+            {
+              "code": 45103010,
+              "name": "Application Software",
+              "description": "Companies engaged in developing and producing software designed for specialized applications for the business or consumer market."
+            },
+            {
+              "code": 45103030,
+              "name": "IT Consulting & Other Services",
+              "description": "Companies providing IT consulting services, information management services, and data processing services."
+            }
+          ]
+        },
+        {
+          "aics_sector": "GOV",
+          "gics_codes": [
+            {
+              "code": 45103030,
+              "name": "IT Consulting & Other Services",
+              "description": "Companies providing IT consulting services, information management services, and data processing services."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "NAICS",
+      "name": "North American Industry Classification System",
+      "description": "The North American Industry Classification System (NAICS) is the standard used by Federal statistical agencies in classifying business establishments for the purpose of collecting, analyzing, and publishing statistical data related to the U.S. business economy.\n",
+      "mappings": [
+        {
+          "aics_sector": "INF",
+          "naics_codes": [
+            {
+              "code": 511210,
+              "name": "Software Publishers",
+              "description": "This industry comprises establishments primarily engaged in computer software publishing or publishing and reproduction."
+            },
+            {
+              "code": 518210,
+              "name": "Data Processing, Hosting, and Related Services",
+              "description": "This industry comprises establishments primarily engaged in providing infrastructure for hosting or data processing services."
+            }
+          ]
+        },
+        {
+          "aics_sector": "MOD",
+          "naics_codes": [
+            {
+              "code": 511210,
+              "name": "Software Publishers",
+              "description": "This industry comprises establishments primarily engaged in computer software publishing or publishing and reproduction."
+            }
+          ]
+        },
+        {
+          "aics_sector": "APP",
+          "naics_codes": [
+            {
+              "code": 511210,
+              "name": "Software Publishers",
+              "description": "This industry comprises establishments primarily engaged in computer software publishing or publishing and reproduction."
+            },
+            {
+              "code": 541715,
+              "name": "Research and Development in the Physical, Engineering, and Life Sciences",
+              "description": "This industry comprises establishments primarily engaged in conducting research and experimental development in the physical, engineering, and life sciences."
+            }
+          ]
+        },
+        {
+          "aics_sector": "GOV",
+          "naics_codes": [
+            {
+              "code": 541715,
+              "name": "Research and Development in the Physical, Engineering, and Life Sciences",
+              "description": "This industry comprises establishments primarily engaged in conducting research and experimental development in the physical, engineering, and life sciences."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ISIC",
+      "name": "International Standard Industrial Classification",
+      "description": "The International Standard Industrial Classification (ISIC) is the international reference classification of productive economic activities. Its main purpose is to provide a set of activity categories that can be utilized for the collection and reporting of statistics according to such activities.\n",
+      "mappings": [
+        {
+          "aics_sector": "INF",
+          "isic_codes": [
+            {
+              "code": 6201,
+              "name": "Computer programming activities",
+              "description": "This class includes the writing, modifying, testing and supporting of software."
+            },
+            {
+              "code": 6311,
+              "name": "Data processing, hosting and related activities",
+              "description": "This class includes the provision of infrastructure for hosting, data processing services and related activities."
+            }
+          ]
+        },
+        {
+          "aics_sector": "MOD",
+          "isic_codes": [
+            {
+              "code": 6201,
+              "name": "Computer programming activities",
+              "description": "This class includes the writing, modifying, testing and supporting of software."
+            }
+          ]
+        },
+        {
+          "aics_sector": "APP",
+          "isic_codes": [
+            {
+              "code": 6201,
+              "name": "Computer programming activities",
+              "description": "This class includes the writing, modifying, testing and supporting of software."
+            },
+            {
+              "code": 7210,
+              "name": "Research and experimental development on natural sciences and engineering",
+              "description": "This class includes research and experimental development activities in natural sciences and engineering."
+            }
+          ]
+        },
+        {
+          "aics_sector": "GOV",
+          "isic_codes": [
+            {
+              "code": 7210,
+              "name": "Research and experimental development on natural sciences and engineering",
+              "description": "This class includes research and experimental development activities in natural sciences and engineering."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

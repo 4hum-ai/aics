@@ -1,0 +1,19 @@
+aics_sector,standard,code,name,description
+INF,GICS,45103010,Application Software,Companies engaged in developing and producing software designed for specialized applications for the business or consumer market.
+INF,GICS,45103020,Systems Software,Companies engaged in developing and producing systems and database management software.
+MOD,GICS,45103010,Application Software,Companies engaged in developing and producing software designed for specialized applications for the business or consumer market.
+APP,GICS,45103010,Application Software,Companies engaged in developing and producing software designed for specialized applications for the business or consumer market.
+APP,GICS,45103030,IT Consulting & Other Services,"Companies providing IT consulting services, information management services, and data processing services."
+GOV,GICS,45103030,IT Consulting & Other Services,"Companies providing IT consulting services, information management services, and data processing services."
+INF,NAICS,511210,Software Publishers,This industry comprises establishments primarily engaged in computer software publishing or publishing and reproduction.
+INF,NAICS,518210,"Data Processing, Hosting, and Related Services",This industry comprises establishments primarily engaged in providing infrastructure for hosting or data processing services.
+MOD,NAICS,511210,Software Publishers,This industry comprises establishments primarily engaged in computer software publishing or publishing and reproduction.
+APP,NAICS,511210,Software Publishers,This industry comprises establishments primarily engaged in computer software publishing or publishing and reproduction.
+APP,NAICS,541715,"Research and Development in the Physical, Engineering, and Life Sciences","This industry comprises establishments primarily engaged in conducting research and experimental development in the physical, engineering, and life sciences."
+GOV,NAICS,541715,"Research and Development in the Physical, Engineering, and Life Sciences","This industry comprises establishments primarily engaged in conducting research and experimental development in the physical, engineering, and life sciences."
+INF,ISIC,6201,Computer programming activities,"This class includes the writing, modifying, testing and supporting of software."
+INF,ISIC,6311,"Data processing, hosting and related activities","This class includes the provision of infrastructure for hosting, data processing services and related activities."
+MOD,ISIC,6201,Computer programming activities,"This class includes the writing, modifying, testing and supporting of software."
+APP,ISIC,6201,Computer programming activities,"This class includes the writing, modifying, testing and supporting of software."
+APP,ISIC,7210,Research and experimental development on natural sciences and engineering,This class includes research and experimental development activities in natural sciences and engineering.
+GOV,ISIC,7210,Research and experimental development on natural sciences and engineering,This class includes research and experimental development activities in natural sciences and engineering.

@@ -1,3 +1,5 @@
+Last Modified: 2025-06-05 17:21:03
+
 # Welcome to AI Classification Standard (AICS)
 
 The AI Classification Standard (AICS) is an open framework for classifying and evaluating artificial intelligence systems. This documentation provides detailed information about our methodology, comparison with other standards, and our development roadmap.
@@ -91,4 +93,14 @@ We invite you to join our growing community and contribute to the evolution of A
 - [OECD Framework](https://www.oecd.org/going-digital/ai/principles/) - Learn about the foundation of our classification system
 - [Contributing Guide](contributing.md) - Learn how to contribute to AICS
 - [Community Forum](forum.md) - Join discussions with other AICS users
+
+## Download Taxonomy
+
+The AICS taxonomy is available in multiple formats for easy integration with your systems:
+
+- [YAML Format](taxonomy/versions/v1.0.yaml) - Original YAML format
+- [JSON Format](assets/taxonomy.json) - JSON representation
+- [CSV Format](assets/taxonomy.csv) - Flattened CSV format
+
+These files are automatically generated from our source taxonomy and are updated with each new version.
 

@@ -1,42 +1,57 @@
-site_name: AI Classification Standard (AICS)
-repo_url: https://github.com/4hum-ai/aics
+site_name: AI Classification Standard
+site_description: An open framework for classifying and evaluating artificial intelligence systems
+site_author: AICS Community
+repo_url: https://github.com/4humai/aics
+repo_name: 4humai/aics
 site_url: https://4hum-ai.github.io/aics/
 use_directory_urls: true
 nav:
   - Home: index.md
   - Taxonomy:
-    - Explorer: taxonomy.md
-    - Infrastructure:
-      - Overview: taxonomy/inf.md
-      - Compute Hardware: taxonomy/inf.cmp.md
-      - Cloud & Edge: taxonomy/inf.cld.md
-      - Data Infrastructure: taxonomy/inf.dat.md
-      - Security & Observability: taxonomy/inf.sec.md
-      - Dev Tools & Frameworks: taxonomy/inf.tls.md
-    - Models & Platforms:
-      - Overview: taxonomy/mod.md
-      - Foundation Models: taxonomy/mod.fnd.md
-      - Model APIs & Serving: taxonomy/mod.api.md
-      - Model Hubs: taxonomy/mod.hub.md
-      - Model Compression: taxonomy/mod.cmp.md
-    - Applications:
-      - Overview: taxonomy/app.md
-      - Autonomous Agents: taxonomy/app.agt.md
-      - Enterprise Automation: taxonomy/app.ent.md
-      - Healthcare AI: taxonomy/app.hlt.md
-      - eCommerce: taxonomy/app.ecm.md
-      - Robotics & IoT: taxonomy/app.rbt.md
-      - Education: taxonomy/app.edu.md
-      - Financial Services: taxonomy/app.fin.md
-      - Marketing: taxonomy/app.mkt.md
-      - Creative & Content: taxonomy/app.cre.md
-    - Governance:
-      - Overview: taxonomy/gov.md
-      - Auditing: taxonomy/gov.aud.md
-      - Fairness: taxonomy/gov.fai.md
-      - Privacy: taxonomy/gov.pri.md
-      - Safety: taxonomy/gov.saf.md
-      - Policy: taxonomy/gov.pol.md
-  - Registry: registry.md
+    - Overview: taxonomy.md
+    - Infrastructure (INF): taxonomy/inf.md
+    - Models & Platforms (MOD): taxonomy/mod.md
+    - Applications (APP): taxonomy/app.md
+    - Governance (GOV): taxonomy/gov.md
+  - Standard Mappings: mappings.md
+  - Company Registry: registry.md
+
 theme:
   name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.share
+    - search.suggest
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.emoji
+  - pymdownx.arithmatex
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.smartsymbols
+  - pymdownx.snippets
+  - admonition
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
