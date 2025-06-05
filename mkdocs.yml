@@ -1,5 +1,7 @@
 site_name: AI Classification Standard (AICS)
 repo_url: https://github.com/4hum-ai/aics
+site_url: https://4hum-ai.github.io/aics/
+use_directory_urls: true
 nav:
   - Home: index.md
   - Taxonomy:
