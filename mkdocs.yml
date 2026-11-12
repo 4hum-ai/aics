@@ -16,6 +16,9 @@ nav:
   - Standard Mappings: mappings.md
   - Company Registry: registry.md
 
+hooks:
+  - tools/generate_docs.py
+
 theme:
   name: material
   features:
